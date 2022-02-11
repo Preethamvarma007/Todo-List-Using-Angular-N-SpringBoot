@@ -10,22 +10,22 @@ Angular is a complete front end framework with a wide range of features
 Spring Boot is an awesome framework to build RESTful API and Microservices.
 In this course, lets combine these awesome frameworks to create your first full stack web application.
 
-# Installation Guides
+## Installation Guides
 
-# Required Tools
+## Required Tools
 •	Node v8+ for npm
 •	Visual Studio Code - Latest Version
 •	Java 8+
 •	Eclipse - Oxygen+ - (Embedded Maven From Eclipse)
 
-# Installing Node Js (npm) & Visual Studio Code
+## Installing Node Js (npm) & Visual Studio Code
 •	Playlist - https://www.youtube.com/playlist?list=PLBBog2r6uMCQN4X3Aa_jM9qVjgMCHMWx6
 •	Steps
 o	Step 01 - Installing NodeJs and NPM - Node Package Manager
 o	Step 02 - Quick Introduction to NPM
 o	Step 03 - Installing Visual Studio Code - Front End Java Script Editor
 
-# Installing Java, Eclipse & Embedded Maven
+## Installing Java, Eclipse & Embedded Maven
 •	Playlist - https://www.youtube.com/playlist?list=PLBBog2r6uMCSmMVTW_QmDLyASBvovyAO3
 •	Steps
 o	0 - Overview - Installation Java, Eclipse and Maven
@@ -34,7 +34,7 @@ o	2 - Installing Eclipse IDE
 o	3 - Using Embedded Maven in Eclipse
 o	4 - Troubleshooting Java, Eclipse and Maven
 
-# Troubleshooting Installations
+## Troubleshooting Installations
 •	Node JS and NPM
 o	https://docs.npmjs.com/common-errors
 o	https://docs.npmjs.com/getting-started/troubleshooting
@@ -50,7 +50,7 @@ o	GIT Repository For Installation : https://github.com/in28minutes/getting-start
 •	Spring Boot Tutorial for Beginners - https://www.youtube.com/watch?v=pcdpk3Yd1EA
 •	JPA and Hibernate Tutorial for Beginners - https://www.youtube.com/watch?v=MaI0_XdpdP8
 
-# Requirements
+## Requirements
 •	You should have prior experience with Java, Basic JavaScript and Spring Framework.
 •	You should have Chrome browser installed.
 •	We will help you install Eclipse, Visual Studio Code and Node JS(for npm)
